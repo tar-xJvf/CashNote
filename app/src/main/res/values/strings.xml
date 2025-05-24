@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">CashNote</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome</string>
+    <string name="action_about">About</string>
+    <string name="developer">Developer : AHS Team</string>
+    <string name="version">Ver.1.0.0</string>
+    <string name="cashnote">CashNote</string>
+    <string name="application">Application</string>
+    <string name="aktifkan_mode_gelap">Enable dark mode</string>
+    <string name="about_app">About application</string>
+    <string name="summary">CashNote\nVer.1.0\nDeveloper: AHS team</string>
+    <string name="todo">TODO</string>
+    <string name="add_date">Date</string>
+    <string name="select_date">Select Date:</string>
+    <string name="_31_01_2025">2025/01/31</string>
+    <string name="enter_name">Enter desc</string>
+    <string name="description">Description:</string>
+    <string name="amount">Amount</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="save">Save</string>
+    <string name="category">Category</string>
+    <string name="enter_category">Enter Category</string>
+    <string name="rv_date">Date</string>
+    <string name="rv_desc">Desc</string>
+    <string name="rv_category">Category</string>
+    <string name="rv_amount">Amount</string>
+    <string name="bt_edit">Edit</string>
+    <string name="bt_delete">Delete</string>
+    <string name="dark_mode">Select Theme Mode</string>
+    <string name="empty_field">Don\'t leave this field blank.</string>
+    <string name="_7_selecting_dark_or_light_mode_from_the_settings_menu_will_restart_the_app_to_apply_the_changes">7. Selecting dark or light mode from the settings menu will restart the app to apply the changes.</string>
+    <string name="_4_to_edit_or_delete_select_an_item_then_tap_edit_or_delete">4. To edit or delete, select an item then tap Edit or Delete</string>
+    <string name="_3_then_tap_save">3. Then tap Save</string>
+    <string name="_2_enter_date_description_category_and_amount">2. Enter date, description, category,type transaction and amount</string>
+    <string name="_1_tap_the_button_on_the_screen">1. Tap the + button on the screen</string>
+    <string name="how_to_use_the_app">How to Use the App</string>
+    <string name="type_transaction">Transaction</string>
+    <string name="list_transactions">List Transactions</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="rp_0">Rp 0</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="money_flow">Money Flow</string>
+    <string name="export_data">Export/Import data</string>
+    <string name="end_date">End Date</string>
+    <string name="start_date">Start Date</string>
+    <string name="date_range">Date Range</string>
+    <string name="all_dates">All Dates</string>
+    <string name="filter_by">Filter By:</string>
+    <string name="_5_to_export_please_select_all_or_choose_a_specific_date_range_then_tap_export_to_pdf_or_export_to_csv">5. To export, please select \'All\' or choose a specific date range, then tap \'Export to PDF\' or \'Export to CSV\'.</string>
+    <string name="_6_to_import_tap_import_choose_a_csv_file_from_your_device_and_confirm_to_import_the_data">6. To import, tap \'Import\', choose a CSV file from your device, and confirm to import the data.</string>
+    <string name="export_to_pdf">Export to PDF</string>
+    <string name="export_to_csv">Export to CSV</string>
+    <string name="import_data">Import Data</string>
+    <string name="data_info">Data info....</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="do_you_really_want_to_import_this_file">Do you really want to import this file?</string>
+    <string name="cancel">Cancel</string>
+    <string name="importData">Import</string>
+    <string-array name="category_array">
+        <item>Groceries shopping</item>
+        <item>Services</item>
+        <item>Shopping</item>
+        <item>Etc</item>
+    </string-array>
+</resources>
